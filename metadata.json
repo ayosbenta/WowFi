@@ -1,0 +1,5 @@
+{
+  "name": "WowFi",
+  "description": "A full-featured e-commerce application for DITO Home Wifi with Admin and Buyer roles, simulated backend, and Gemini AI integration.",
+  "requestFramePermissions": []
+}
